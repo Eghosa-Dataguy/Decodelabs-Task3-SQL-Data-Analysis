@@ -1,16 +1,38 @@
 # Decodelabs-Task3-SQL-Data-Analysis
-SQL Data Analysis project completed during the Decode Labs Data Analytics Internship. The project involves querying a cleaned e-commerce dataset in SQL Server Management Studio (SSMS) using SELECT, WHERE, ORDER BY, GROUP BY, COUNT, SUM, and AVG functions to extract business insights, analyze order performance, and identify key trends.
-# Task 3: SQL Data Analysis and Insights Extraction
+<img width="1920" height="1080" alt="Task 3 (1)" src="https://github.com/user-attachments/assets/ea127a8c-d24e-41c8-845e-96df1769795d" />
+<img width="1920" height="1080" alt="Tasks 3 (2)" src="https://github.com/user-attachments/assets/9c1541df-dad0-4e55-aaba-11f64f7d43b3" />
+<img width="1920" height="1080" alt="Tasks 3 (3)" src="https://github.com/user-attachments/assets/632ec789-90b2-443d-bba7-2d23bf290f47" />
+<img width="1920" height="1080" alt="Tasks 3 (4)" src="https://github.com/user-attachments/assets/4ceaa713-20a4-4012-9099-63bc42c8cbf0" />
+<img width="1920" height="1080" alt="Tasks 3 (5)" src="https://github.com/user-attachments/assets/4f25e3e9-4480-491f-a3ba-f9950a50bccc" />
+<img width="1920" height="1080" alt="Tasks 3 (6)" src="https://github.com/user-attachments/assets/c705c7f8-09fa-47d2-a5a9-3e5809744832" />
+<img width="1920" height="1080" alt="Tasks 3 (7)" src="https://github.com/user-attachments/assets/3090a921-321f-4d24-9734-5567cb873f32" />
+<img width="1920" height="1080" alt="Tasks 3 (8)" src="https://github.com/user-attachments/assets/31d71785-3cdf-4ac5-a186-5ace91f3fcca" />
 
+## Table Of Content
+- [Project Overview]
+- [Objectives]
+- [Tools Used]
+- [SQL Concepts Applied]
+     * [Data Exploration]
+     * [Data Filtering]
+     * [Data Sorting and Ranking]
+     * [Data Aggregation]
+- [Key Findings]
+     * [Order Status Analysis]
+- [Business Insights]
+- [Recommendations]
+- [Skills Demonstrated]
+- [Conclusion]
+- [Author]
+- 
 ## Project Overview
 
-This project focuses on using SQL queries to explore, analyze, and extract meaningful insights from a cleaned e-commerce dataset. The dataset was imported into Microsoft SQL Server Management Studio (SSMS), where various SQL operations were performed to answer business-related questions and uncover trends within the data.
-
-The objective of this task was to strengthen practical SQL skills by querying data, filtering records, aggregating information, and generating insights that support data-driven decision-making.
+SQL Data Analysis project completed during the Decode Labs Data Analytics Internship. The project involves querying a cleaned e-commerce dataset in SQL Server Management Studio (SSMS) using SELECT, WHERE, ORDER BY, GROUP BY, COUNT, SUM, and AVG functions to extract business insights, analyze order performance, and identify key trends.I imported the csv file into Microsoft SQL Server Management Studio (SSMS), where i performed various SQL operations to answer business-related questions and uncover trends within the data.
 
 ---
 
 ## Objectives
+The basic objective of this task was to strengthen practical SQL skills by querying data, filtering records, aggregating information, and generating insights that support data-driven decision-making,which was done one step at a time:
 
 * Load and explore the dataset in SQL Server Management Studio (SSMS).
 * Perform data exploration using SQL queries.
